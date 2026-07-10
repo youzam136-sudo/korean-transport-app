@@ -73,7 +73,7 @@ export default function MicrogridPage() {
         </div>
         <motion.div variants={itemVariants}>
           <Image
-            className="h-93.25 w-full rounded-3xl object-cover"
+            className="h-93.25 w-full rounded-3xl object-cover object-top"
             src="/micro.jpg"
             alt="hero-img"
             width={1920}
